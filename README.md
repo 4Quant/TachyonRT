@@ -1,5 +1,5 @@
 # TachyonRT
-The Tachyon rendering engine from SageMath (https://github.com/sagemath/sagelib/blob/master/sage/interfaces/tachyon.py) as a standard Jupyter accessible tool 
+The Tachyon rendering engine from SageMath (https://github.com/sagemath/sagelib/blob/master/sage/interfaces/tachyon.py) as a standard Jupyter accessible tool. The ```tachyon``` binary file is needed for this to work and currently is kept in the same path. A more elegant implementation would recompile it, but ATM I can't be bothered. 
 
 
 ## Rending Wrapper / tachyon_rt.py
